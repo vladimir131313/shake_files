@@ -3,11 +3,13 @@ The program rename files. It adds a random prefix. It's can be used for shake fi
 
 ### Build:
 
+```
 go build shake_files.go 
 go build shake_files2.go
+```
 
-shake_files - just rename files with random prefix.
-shake_files2 - better version. Firstly it shakes list files and then added sequins number in a file name. 
+* shake_files - just rename files with random prefix.
+* shake_files2 - better version. Firstly it shakes list files and then added sequins number in a file name. 
 
 ### Help:
 
